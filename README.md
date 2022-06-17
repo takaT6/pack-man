@@ -22,10 +22,10 @@ About HandyGraphic http://www.cc.kyoto-su.ac.jp/~ogihara/Hg/
 after activating HandyGraphic...
 ```bash
 *build
-hgcc -o SpaceInvader SpaceInvader.c
+hgcc -o PackMan PackMan.c
 
 *run
-./SpaceInvader
+./PackMan
 ```
  
 # Note
