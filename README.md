@@ -1,5 +1,6 @@
 # pack-man
- 
+大学1年生春学期にC言語で作成したパックマンっぽいゲーム。
+
 PackMan game made with C and HandyGraphic.
  
 # DEMO
